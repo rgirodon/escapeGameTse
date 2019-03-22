@@ -24,13 +24,13 @@ Thomas et Rania se sont joints à cette équipe pour l'application de tracking
 
 ### Application de tracking des équipes
 
-[https://github.com/nunes-a/escape-game/tree/nunes-front] (https://github.com/nunes-a/escape-game/tree/nunes-front) - branche nunes-front
+[https://github.com/nunes-a/escape-game/tree/nunes-front](https://github.com/nunes-a/escape-game/tree/nunes-front)
 
-[https://github.com/joelparrat/appback]
+[https://github.com/joelparrat/appback](https://github.com/joelparrat/appback)
 
 ### Énigme Cour des Matières
 
-https://github.com/Coco424/escapegame_cdm.git
+[https://github.com/Coco424/escapegame_cdm.git](https://github.com/Coco424/escapegame_cdm.git)
 
 ## Equipe 3
 
