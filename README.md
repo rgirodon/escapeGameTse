@@ -20,7 +20,11 @@ Kevin, Cerise, Hamza, Ludovic
 
 Joël, Alexandre SJN, Corinne, Emmanuel
 
+Thomas et Rania se sont joints à cette équipe pour l'application de tracking
+
 ### Application de tracking des équipes
+
+[https://github.com/nunes-a/escape-game/tree/nunes-front] (https://github.com/nunes-a/escape-game/tree/nunes-front) - branche nunes-front
 
 ### Énigme Cour des Matières
 
@@ -45,6 +49,8 @@ Amélie, Elise, Abdelhak, Martin V
 [https://github.com/MemeAr/InscriptionEscape/tree/test](https://github.com/MemeAr/InscriptionEscape/tree/test)
 
 ### Énigme de la bibliothèque
+
+[https://github.com/MartV11/escapeGame](https://github.com/MartV11/escapeGame)
 
 ## Equipe 5
 
@@ -76,6 +82,8 @@ Tony, Pierrick, Alpha Oumar, Martin K
 
 ### Énigme des carrés magiques
 
+[https://github.com/FuriousTurtle/Project-Cube](https://github.com/FuriousTurtle/Project-Cube)
+
 ### Site vitrine
 
 ## Equipe 8
@@ -96,10 +104,9 @@ Mehmet, Maelis, Dylan, Nasser
 
 ## Equipe 10
 
-Cizia, Marine, Thomas, Rania
+Cizia, Marine
 
 ### Site vitrine
 
 [https://github.com/CiziaDugue/escape-game-home](https://github.com/CiziaDugue/escape-game-home)
 
-### Application de tracking des équipes
