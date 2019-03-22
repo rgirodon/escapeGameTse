@@ -64,9 +64,9 @@ Medhi, Thibault, Mountaga, Adrian
 
 ### Énigme de l'assemblage des résultats des énigmes de la Cité du Design
 
-[https://github.com/TelliMedhi/escapGame](https://github.com/TelliMedhi/escapGame)
+[https://github.com/TelliMedhi/escapGame](https://github.com/TelliMedhi/escapGame - soucis dans la finition sur mobile)
 
-[https://github.com/titooare/Escape_Game_Telephone](https://github.com/titooare/Escape_Game_Telephone)
+[https://github.com/titooare/Escape_Game_Telephone](https://github.com/titooare/Escape_Game_Telephone - montré dans l'atrium)
 
 ### Site vitrine
 
