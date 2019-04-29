@@ -32,7 +32,7 @@ Thomas et Rania se sont joints à cette équipe pour l'application de tracking
 
 [https://github.com/Coco424/escapegame_cdm.git](https://github.com/Coco424/escapegame_cdm.git)
 
-[https://github.com/Emmanuel42/projet_cdm.git] (https://github.com/Emmanuel42/projet_cdm.git)
+[https://github.com/Emmanuel42/projet_cdm.git](https://github.com/Emmanuel42/projet_cdm.git)
 
 ## Equipe 3
 
@@ -42,7 +42,7 @@ Aloïs, Kenny, Etienne, Anthony
 
 [https://github.com/Anthony-CASANAVE/escape-game](https://github.com/Anthony-CASANAVE/escape-game)
 
-[https://github.com/Anthony-CASANAVE/larascape-game] (https://github.com/Anthony-CASANAVE/larascape-game)
+[https://github.com/Anthony-CASANAVE/larascape-game](https://github.com/Anthony-CASANAVE/larascape-game)
 
 ### Énigme des codes sources
 
